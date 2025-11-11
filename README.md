@@ -26,7 +26,12 @@
 
 ### [理论学习之后，如何迈出实践的第一步？不妨学习下 AutoMQ 的工业级代码实现。](https://github.com/AutoMQ/automq)
 
+
+### [理论学习之后，如何迈出实践的第一步？](https://github.com/AutoMQ/automq)
+
+[深入 AutoMQ 的代码，是理解分布式与数据结构工程实践的最佳路径之一。](https://github.com/AutoMQ/automq)
 <br>
+
 
 </div>
 
