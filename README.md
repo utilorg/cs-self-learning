@@ -14,6 +14,21 @@
 
 ---
 
+<div align="center" markdown="1">
+   <sup>Special thanks to:</sup>
+   <br>
+   <a href="https://go.warp.dev/cs-self-learning">
+      <img alt="Warp sponsorship" width="400" src="https://github.com/warpdotdev/brand-assets/blob/main/Github/Sponsor/Warp-Github-LG-02.png">
+   </a>
+
+### [想了解分布式理论如何落地？数据结构如何应用？不妨看看 AutoMQ 的工业级实现。](https://github.com/AutoMQ/automq)
+
+<br>
+
+</div>
+
+---
+
 <div align="center">
   <img src=./docs/images/title.png >
 </div>
