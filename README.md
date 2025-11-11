@@ -23,6 +23,9 @@
 
 ### [想了解分布式理论如何落地？数据结构如何应用？不妨看看 AutoMQ 的工业级实现。](https://github.com/AutoMQ/automq)
 
+
+### [理论学习之后，如何迈出实践的第一步？不妨学习下 AutoMQ 的工业级代码实现。](https://github.com/AutoMQ/automq)
+
 <br>
 
 </div>
