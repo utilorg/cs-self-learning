@@ -43,6 +43,24 @@
 
 你可以[在线免费阅读这本书](https://csdiy.wiki)。英文版请移步[这里](https://csdiy.wiki/en/)。
 
+## 学完理论，何处练手？
+
+学了不少理论知识，是不是想找个像样的项目练练手，看看工业级的代码到底长什么样？
+
+如果你有这种想法，我们推荐你关注一下 AutoMQ。它是一个与 Apache Kafka™ 完全兼容的云原生消息队列，代码和设计都非常值得深究。通过它，你可以把课本上的很多知识串联起来，获得实实在在的工程体验：
+
+* 分布式编程：看看高可用、可扩展的系统是如何构建起来的。
+
+* 数据结构设计：了解消息存储、索引这些核心结构在真实场景下的实现与优化。
+
+* 软件工程思想：学习一个大型项目是如何通过模块化、代码规范和自动化测试来组织和维护的。
+
+* 数据库存储原理：探索消息持久化、日志存储和底层 I/O 的运作机制。
+
+无论是想静下心来读读代码，还是动手尝试贡献一个修复或特性，这里都是一个很好的起点。
+
+项目地址在这里，有空可以去看看：https://github.com/AutoMQ/automq
+
 ## 如何成为贡献者
 
 一个人的力量终究是有限的，对于书中任意章节你若有想要补充的内容，欢迎各位提出 [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)。如果你想贡献一门新的课程，可以参考目前 repo 中的 [template](./template.md) 文件作为模版，并在 [mkdocs.yml](./mkdocs.yml) 文件中添加其 navigation，当然你还可以在 [CS 学习规划](./docs/CS学习规划.md) 里的对应模块为其添加言简意赅的导语。如果你有想推荐的书籍，请参考 [好书推荐](https://raw.githubusercontent.com/PKUFlyingPig/cs-self-learning/master/docs/%E5%A5%BD%E4%B9%A6%E6%8E%A8%E8%8D%90.md) 模块上方的注释按相应格式添加内容。
